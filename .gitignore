@@ -1,1 +1,2 @@
-./scenarios_generation/input/*
+./src/scenarios_generation/input/*
+git
