@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\KSIM_on_B5_(ver. 5.0)\\KSIM_on_B5_(ver. 1.0)\\KSIM_on_B5_(ver. 1.0).csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
